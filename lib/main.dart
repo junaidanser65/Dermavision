@@ -413,7 +413,7 @@ class _AppShellState extends State<AppShell> {
     return Scaffold(
       extendBodyBehindAppBar: true,
       appBar: AppBar(
-        title: Text('SkinAid', style: GoogleFonts.poppins(fontWeight: FontWeight.w600)),
+        title: Text('Dermavision', style: GoogleFonts.poppins(fontWeight: FontWeight.w600)),
         actions: [
           IconButton(onPressed: () {}, icon: const Icon(Icons.notifications_outlined)),
           const SizedBox(width: 4),
